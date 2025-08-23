@@ -14,6 +14,6 @@ CREATE TABLE IF NOT EXISTS alumnos (
 
 
 INSERT INTO alumnos (nombre, numero_documento, nota1, nota2, nota3) VALUES
-('Juan Pérez', '123456789', 4.5, 3.8, 4.2),
-('María Gómez', '987654321', 3.9, 4.7, 4.0),
-('Carlos López', '112233445', 3.0, 3.5, 3.2);
+('Camila Rojas', '109823450', 4.8, 4.6, 4.9),
+('Felipe Martínez', '102334567', 3.7, 4.1, 3.9),
+('Laura Gómez', '100987654', 2.9, 3.4, 3.1);
