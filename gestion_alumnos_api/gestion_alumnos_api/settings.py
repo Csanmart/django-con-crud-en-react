@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'corsheaders',
+    "corsheaders",
     'rest_framework',
     'alumnos'
 ]
@@ -55,7 +55,7 @@ MIDDLEWARE = [
 
 
 CORS_ALLOWED_ORIGINS =[
-    "http://localhost:3000",
+    "http://localhost:5173",
 ]
 
 REST_FRAMEWORK = {
